@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width"><title>https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeHome.htm</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css"></head><body id="viewsource" class="highlight" style="tab-size: 4"><pre id="line1"><span></span><span class="error" title="Start-Tag wurde entdeckt, ohne dass ein Doctype zuerst gesehen wurde. “&lt;!DOCTYPE html&gt;” erwartet.">&lt;<span class="start-tag">HTML</span>&gt;</span><span>
+<span id="line2"></span></span><span>&lt;<span class="start-tag">TITLE</span>&gt;</span><span>YCOE, Homepage</span><span>&lt;/<span class="end-tag">TITLE</span>&gt;</span><span>
+<span id="line3"></span>
+<span id="line4"></span></span><span>&lt;<span class="start-tag">BODY</span> <span class="attribute-name">BGCOLOR</span>="<a class="attribute-value">FFFFFF</a>"&gt;</span><span>
+<span id="line5"></span>
+<span id="line6"></span></span><span>&lt;<span class="start-tag">H1</span> <span class="attribute-name">ALIGN</span>=<a class="attribute-value">CENTER</a>&gt;</span><span>The York-Toronto-Helsinki Parsed Corpus of Old English Prose
+<span id="line7"></span>(YCOE)</span><span>&lt;/<span class="end-tag">H1</span>&gt;</span><span>
+<span id="line8"></span>
+<span id="line9"></span></span><span>&lt;<span class="start-tag">center</span>&gt;</span><span>
+<span id="line10"></span>Ann Taylor, Anthony Warner, Susan Pintzuk, Frank Beths</span><span>&lt;<span class="start-tag">br</span>&gt;</span><span>
+<span id="line11"></span>Department of Language and Linguistic Science</span><span>&lt;<span class="start-tag">br</span>&gt;</span><span>
+<span id="line12"></span>University of York</span><span>&lt;<span class="start-tag">br</span>&gt;</span><span>
+<span id="line13"></span>Heslington, York </span><span>&lt;<span class="start-tag">br</span>&gt;</span><span>
+<span id="line14"></span>England YO10 5DD</span><span>&lt;<span class="start-tag">br</span>&gt;</span><span>
+<span id="line15"></span><span class="entity"><span>&amp;</span>copy;</span> 2003 University of York
+<span id="line16"></span></span><span>&lt;/<span class="end-tag">center</span>&gt;</span><span>
+<span id="line17"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span></span><span>&lt;<span class="start-tag">br</span>&gt;</span><span>
+<span id="line18"></span>
+<span id="line19"></span></span><span>&lt;<span class="start-tag">h3</span> <span class="attribute-name">ALIGN</span>=<a class="attribute-value">CENTER</a>&gt;</span><span></span><span>&lt;<span class="start-tag">A</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeConditions.htm">YcoeConditions.htm</a>"&gt;</span><span>Conditions of Use</span><span>&lt;/<span class="end-tag">A</span>&gt;</span><span></span><span class="error" title="End-Tag “h4” wurde entdeckt, aber keine Elemente waren offen.">&lt;/<span class="end-tag">H4</span>&gt;</span><span>
+<span id="line20"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>
+<span id="line21"></span></span><span>&lt;<span class="start-tag">HR</span>&gt;</span><span>
+<span id="line22"></span>
+<span id="line23"></span>The York-Toronto-Helsinki Parsed Corpus of Old English Prose (YCOE) is a
+<span id="line24"></span>1.5 million word syntactically-annotated corpus. As a sister corpus to the
+<span id="line25"></span>Penn-Helsinki Parsed Corpus of Middle English (</span><span>&lt;<span class="start-tag">a</span>
+<span id="line26"></span><span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:http://www.ling.upenn.edu/mideng/ppcme2dir">http://www.ling.upenn.edu/mideng/ppcme2dir</a>"&gt;</span><span>PPCME2</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>), it uses the
+<span id="line27"></span>same form of annotation and is accessed by the same search engine,
+<span id="line28"></span>CorpusSearch.  CorpusSearch is not included in this distribution. If you
+<span id="line29"></span>already own CorpusSearch you can search the YCOE with it; if not,
+<span id="line30"></span>instructions for obtaining it are given below.
+<span id="line31"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>
+<span id="line32"></span>We are very grateful to the following presses, organizations, and
+<span id="line33"></span>individuals who have generously allowed us to distribute without charge Old
+<span id="line34"></span>English texts of which they hold copyright: </span><span>&lt;<span class="start-tag">a</span>
+<span id="line35"></span><span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:http://www.badw.de/">http://www.badw.de/</a>"&gt;</span><span>Bayerische Akademie der Wissenschaften</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>, </span><span>&lt;<span class="start-tag">a</span>
+<span id="line36"></span><span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:http://uk.cambridge.org/">http://uk.cambridge.org/</a>"&gt;</span><span>Cambridge University Press</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>, </span><span>&lt;<span class="start-tag">a</span>
+<span id="line37"></span><span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:http://users.ox.ac.uk/~eets/eetshome.htm">http://users.ox.ac.uk/~eets/eetshome.htm</a>"&gt;</span><span>The Council of The Early
+<span id="line38"></span>English Text Society</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>, </span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:http://www.mla.org/">http://www.mla.org/</a>"&gt;</span><span>The Modern Language
+<span id="line39"></span>Association of America</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>, </span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:http://www.oup.co.uk/">http://www.oup.co.uk/</a>"&gt;</span><span>Oxford University
+<span id="line40"></span>Press</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>, </span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:http://www.utpress.utoronto.ca/">http://www.utpress.utoronto.ca/</a>"&gt;</span><span>University of Toronto
+<span id="line41"></span>Press</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>, </span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:http://www.doe.utoronto.ca/">http://www.doe.utoronto.ca</a>"&gt;</span><span>Toronto Dictionary of Old
+<span id="line42"></span>English Project</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>, Professor Denis Brearley (University of Ottawa),
+<span id="line43"></span>Dr. Julia Crick (University of Exeter), Executor of Professor J. Cross
+<span id="line44"></span>(University of Liverpool), Professor Thomas Hall (University of Illinois at
+<span id="line45"></span>Chicago), Professor Thomas D. Hill (Cornell University), Professor Hugh
+<span id="line46"></span>Magennis (Queens University Belfast), Professor Andy Orchard (University of
+<span id="line47"></span>Toronto). For permissions granted and details of texts, click </span><span>&lt;<span class="start-tag">a</span>
+<span id="line48"></span><span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeCopy.htm">YcoeCopy.htm</a>"&gt;</span><span>here</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>.
+<span id="line49"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>
+<span id="line50"></span>Users are reminded that many of the texts in the corpus are subject to
+<span id="line51"></span>copyright restrictions, and that citation or excerption from these texts
+<span id="line52"></span>will be subject to the normal requirements concerning copyright holders'
+<span id="line53"></span>permission. We hold copyright in the annotations, and freely grant users
+<span id="line54"></span>permission to reproduce the annotations in the course of non-commercial
+<span id="line55"></span>scholarly activity.
+<span id="line56"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>
+<span id="line57"></span>We would like to thank the following people and organizations for their
+<span id="line58"></span>support during this project: The Toronto Dictionary of Old English Project
+<span id="line59"></span>(Antonette di Paolo Healey, editor) for their generosity in allowing us to
+<span id="line60"></span>use their electronic versions of the Old English texts as the basis for our
+<span id="line61"></span>corpus and permission to distribute the same, as well as helpful
+<span id="line62"></span>advice. The English Arts and Humanities Research Board for the grant under
+<span id="line63"></span>which the corpus was annotated between 2000 and 2003 (B/RG/AN5907/APN9528);
+<span id="line64"></span>Professor Anthony Kroch and Dr. Beatrice Santorini (University of
+<span id="line65"></span>Pennsylvania) for helpful discussion of methodology during the project;
+<span id="line66"></span>Matti Rissanen and Merja Kyt<span class="entity"><span>&amp;</span>ouml;</span> of the Helsinki Corpus for allowing us
+<span id="line67"></span>to make use of their materials, and the Department of Language and
+<span id="line68"></span>Linguistics, University of York, which housed the project, for their
+<span id="line69"></span>support. We would also like to thank the </span><span>&lt;<span class="start-tag">a</span>
+<span id="line70"></span><span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:http://www.press.umich.edu/">http://www.press.umich.edu/</a>"&gt;</span><span>University of Michigan Press</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span> for
+<span id="line71"></span>their permission to distribute a major proportion of the Toronto Corpus of
+<span id="line72"></span>Old English.
+<span id="line73"></span>
+<span id="line74"></span></span><span>&lt;<span class="start-tag">hr</span>&gt;</span><span>
+<span id="line75"></span>
+<span id="line76"></span></span><span>&lt;<span class="start-tag">P</span>&gt;</span><span>
+<span id="line77"></span></span><span>&lt;<span class="start-tag">TABLE</span>&gt;</span><span>
+<span id="line78"></span></span><span>&lt;<span class="start-tag">TR</span>&gt;</span><span>
+<span id="line79"></span></span><span>&lt;<span class="start-tag">TD</span> <span class="attribute-name">VALIGN</span>=<a class="attribute-value">TOP</a> <span class="attribute-name">WIDTH</span>=<a class="attribute-value">50%</a>&gt;</span><span>
+<span id="line80"></span></span><span>&lt;<span class="start-tag">H3</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeContents.htm">YcoeContents.htm</a>"&gt;</span><span>Directory structure and contents</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">H3</span>&gt;</span><span>
+<span id="line81"></span>    </span><span>&lt;<span class="start-tag">DL</span>&gt;</span><span>
+<span id="line82"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span>What is included in the distribution</span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line83"></span>    </span><span>&lt;/<span class="end-tag">DL</span>&gt;</span><span>
+<span id="line84"></span></span><span>&lt;<span class="start-tag">H3</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeStart.htm">YcoeStart.htm</a>"&gt;</span><span>Getting started</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">H3</span>&gt;</span><span>
+<span id="line85"></span>    </span><span>&lt;<span class="start-tag">DL</span>&gt;</span><span>
+<span id="line86"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span>How to set up and use the YCOE on your computer</span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line87"></span>    </span><span>&lt;/<span class="end-tag">DL</span>&gt;</span><span>
+<span id="line88"></span></span><span>&lt;<span class="start-tag">H3</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeFiles.htm">YcoeFiles.htm</a>"&gt;</span><span>YCOE Filenames</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">H3</span>&gt;</span><span>
+<span id="line89"></span>    </span><span>&lt;<span class="start-tag">DL</span>&gt;</span><span>
+<span id="line90"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span>How YCOE filenames are constructed</span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line91"></span>    </span><span>&lt;/<span class="end-tag">DL</span>&gt;</span><span>
+<span id="line92"></span></span><span>&lt;<span class="start-tag">H3</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeMeta.htm">doc/annotation/YcoeMeta.htm</a>"&gt;</span><span>Non-linguistic annotations
+<span id="line93"></span>within the text</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">H3</span>&gt;</span><span>
+<span id="line94"></span>    </span><span>&lt;<span class="start-tag">DL</span>&gt;</span><span>
+<span id="line95"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span>How non-linguistic information is encoded</span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line96"></span>    </span><span>&lt;/<span class="end-tag">DL</span>&gt;</span><span>
+<span id="line97"></span></span><span>&lt;<span class="start-tag">H3</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/info/YcoeText.htm">info/YcoeText.htm</a>"&gt;</span><span>Text Information</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">H3</span>&gt;</span><span>
+<span id="line98"></span>    </span><span>&lt;<span class="start-tag">DL</span>&gt;</span><span>
+<span id="line99"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span>Information about the texts included in the corpus</span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line100"></span>    </span><span>&lt;/<span class="end-tag">DL</span>&gt;</span><span>
+<span id="line101"></span></span><span>&lt;<span class="start-tag">H3</span>&gt;</span><span>Part-of-Speech Annotation</span><span class="error" title="Verirrtes End-Tag “a”.">&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">H3</span>&gt;</span><span>
+<span id="line102"></span>    </span><span>&lt;<span class="start-tag">DL</span>&gt;</span><span>
+<span id="line103"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeLite.htm#pos_labels">doc/annotation/YcoeLite.htm#pos_labels</a>"&gt;</span><span>Part-of-Speech 
+<span id="line104"></span>           Labels</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line105"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoePosToc.htm">doc/annotation/YcoePosToc.htm</a>"&gt;</span><span>Reference Manual</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line106"></span>    </span><span>&lt;/<span class="end-tag">DL</span>&gt;</span><span>    
+<span id="line107"></span>    </span><span class="error" title="Verirrtes End-Tag “dl”.">&lt;/<span class="end-tag">DL</span>&gt;</span><span>
+<span id="line108"></span></span><span>&lt;/<span class="end-tag">TD</span>&gt;</span><span>
+<span id="line109"></span>
+<span id="line110"></span></span><span>&lt;<span class="start-tag">TD</span> <span class="attribute-name">VALIGN</span>=<a class="attribute-value">TOP</a>&gt;</span><span>
+<span id="line111"></span>
+<span id="line112"></span></span><span>&lt;<span class="start-tag">H3</span>&gt;</span><span>Syntactic Annotation</span><span>&lt;/<span class="end-tag">H3</span>&gt;</span><span>
+<span id="line113"></span>    </span><span>&lt;<span class="start-tag">DL</span>&gt;</span><span>
+<span id="line114"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeLite.htm#syntactic_labels">doc/annotation/YcoeLite.htm#syntactic_labels</a>"&gt;</span><span>Syntactic
+<span id="line115"></span>Labels</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line116"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeLiteToc.htm">doc/annotation/YcoeLiteToc.htm</a>"&gt;</span><span> YCOE Lite: 
+<span id="line117"></span>        A Beginner's Guide</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line118"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeRefToc.htm">doc/annotation/YcoeRefToc.htm</a>"&gt;</span><span>Reference Manual</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line119"></span>        </span><span>&lt;/<span class="end-tag">DL</span>&gt;</span><span>
+<span id="line120"></span></span><span>&lt;<span class="start-tag">H3</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeLabelIndex.htm">doc/annotation/YcoeLabelIndex.htm</a>"&gt;</span><span>Index list of all
+<span id="line121"></span>labels</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">H3</span>&gt;</span><span>
+<span id="line122"></span>    </span><span>&lt;<span class="start-tag">DL</span>&gt;</span><span>
+<span id="line123"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span>An alphabetic list of all the labels (part-of-speech and
+<span id="line124"></span>    syntactic) used in the YCOE, with links to the documentation </span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line125"></span>    </span><span>&lt;/<span class="end-tag">DL</span>&gt;</span><span>
+<span id="line126"></span>
+<span id="line127"></span>
+<span id="line128"></span></span><span>&lt;<span class="start-tag">H3</span>&gt;</span><span>Searching the Corpus</span><span>&lt;/<span class="end-tag">H3</span>&gt;</span><span>
+<span id="line129"></span>    </span><span>&lt;<span class="start-tag">DL</span>&gt;</span><span>
+<span id="line130"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/order-corpussearch.htm">order-corpussearch.htm</a>"&gt;</span><span>CorpusSearch order form</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>
+<span id="line131"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/corpussearch/CSLiteToc.htm">doc/corpussearch/CSLiteToc.htm</a>"&gt;</span><span>CorpusSearch Lite: A
+<span id="line132"></span>beginner's guide</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>
+<span id="line133"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/corpussearch/CSRefToc.htm">doc/corpussearch/CSRefToc.htm</a>"&gt;</span><span>Reference Manual</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>
+<span id="line134"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/corpussearch/CSQuickRef.htm">doc/corpussearch/CSQuickRef.htm</a>"&gt;</span><span>Quick Reference Page</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>
+<span id="line135"></span>    </span><span>&lt;/<span class="end-tag">DL</span>&gt;</span><span>
+<span id="line136"></span></span><span>&lt;<span class="start-tag">H3</span>&gt;</span><span>Questions, comments, publications</span><span>&lt;/<span class="end-tag">H3</span>&gt;</span><span>
+<span id="line137"></span>    </span><span>&lt;<span class="start-tag">DL</span>&gt;</span><span>
+<span id="line138"></span>    </span><span>&lt;<span class="start-tag">DD</span>&gt;</span><span>Please direct any mail about the YCOE to </span><span>&lt;<span class="start-tag">a</span>
+<span id="line139"></span>    <span class="attribute-name">href</span>="<a class="attribute-value" href="mailto:at9@york.ac.uk">mailto:at9@york.ac.uk</a>"&gt;</span><span>at9@york.ac.uk</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>. We would appreciate
+<span id="line140"></span>    receiving copies of (or at least details about) any publications which
+<span id="line141"></span>    make use of the corpus. Questions or comments about CorpusSearch should
+<span id="line142"></span>    be directed to </span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="mailto:corpus-search@babel.ling.upenn.edu">mailto:corpus-search@babel.ling.upenn.edu</a>"&gt;</span><span>corpus-search@babel.ling.upenn.edu</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>.
+<span id="line143"></span>    </span><span>&lt;/<span class="end-tag">DD</span>&gt;</span><span>
+<span id="line144"></span>    </span><span>&lt;/<span class="end-tag">DL</span>&gt;</span><span>
+<span id="line145"></span></span><span>&lt;/<span class="end-tag">TD</span>&gt;</span><span>
+<span id="line146"></span></span><span>&lt;/<span class="end-tag">TR</span>&gt;</span><span>
+<span id="line147"></span></span><span>&lt;/<span class="end-tag">TABLE</span>&gt;</span><span>
+<span id="line148"></span>
+<span id="line149"></span></span><span>&lt;<span class="start-tag">hr</span>&gt;</span><span>
+<span id="line150"></span></span><span>&lt;<span class="start-tag">center</span>&gt;</span><span>
+<span id="line151"></span></span><span>&lt;<span class="start-tag">b</span>&gt;</span><span>Disclaimer</span><span>&lt;/<span class="end-tag">b</span>&gt;</span><span>
+<span id="line152"></span></span><span>&lt;/<span class="end-tag">center</span>&gt;</span><span>
+<span id="line153"></span>
+<span id="line154"></span>Considerable efforts have been made to find and correct errors in the YCOE,
+<span id="line155"></span>but we cannot guarantee that no errors remain.  In legal terms, we are
+<span id="line156"></span>supplying the corpus without warranty.  Please click </span><span>&lt;<span class="start-tag">a</span>
+<span id="line157"></span><span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeConditions.htm#disclaimer">YcoeConditions.htm#disclaimer</a>"&gt;</span><span>here</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span> for the full legal disclaimer
+<span id="line158"></span>concerning the YCOE. Please send reports of any errors found in the texts
+<span id="line159"></span>or annotation, with a note of the locus and nature of the error, to </span><span>&lt;<span class="start-tag">a</span>
+<span id="line160"></span><span class="attribute-name">href</span>="<a class="attribute-value" href="mailto:at9@york.ac.uk">mailto:at9@york.ac.uk</a>"&gt;</span><span>at9@york.ac.uk</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>.  Please remember, however,
+<span id="line161"></span>that the annotation system is intended to be a tool for searching, not a
+<span id="line162"></span>grammar of Old English syntax.
+<span id="line163"></span></span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>
+<span id="line164"></span>The CorpusSearch program was developed at the University of Pennsylvania by
+<span id="line165"></span>Beth Randall in collaboration with Anthony Kroch and Ann Taylor. Please
+<span id="line166"></span>direct all correspondence regarding CorpusSearch to </span><span>&lt;<span class="start-tag">a</span>
+<span id="line167"></span><span class="attribute-name">href</span>="<a class="attribute-value" href="mailto:corpus-search@babel.ling.upenn.edu">mailto:corpus-search@babel.ling.upenn.edu</a>"&gt;</span><span>corpus-search@babel.ling.upenn.edu</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>.
+<span id="line168"></span>
+<span id="line169"></span>
+<span id="line170"></span></span><span>&lt;<span class="start-tag">P</span>&gt;</span><span></span><span>&lt;<span class="start-tag">HR</span>&gt;</span><span></span><span class="error" title="Kein “p”-Element im Gültigkeitsbereich, aber ein “p”-End-Tag wurde entdeckt.">&lt;/<span class="end-tag">P</span>&gt;</span><span>
+<span id="line171"></span>
+<span id="line172"></span>
+<span id="line173"></span></span><span class="error" title="Verirrtes End-Tag “blockquote”.">&lt;/<span class="end-tag">blockquote</span>&gt;</span><span>
+<span id="line174"></span></span><span>&lt;/<span class="end-tag">BODY</span>&gt;</span><span>
+<span id="line175"></span></span><span>&lt;/<span class="end-tag">HTML</span>&gt;</span><span>
+<span id="line176"></span></span></pre></body></html>

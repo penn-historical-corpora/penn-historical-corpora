@@ -1,0 +1,166 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>YCOE, Homepage</title>
+
+<link href="data:text/css,%3Ais(%5Bid*%3D'google_ads_iframe'%5D%2C%5Bid*%3D'taboola-'%5D%2C.taboolaHeight%2C.taboola-placeholder%2C%23top-ad%2C%23credential_picker_container%2C%23credentials-picker-container%2C%23credential_picker_iframe%2C%5Bid*%3D'google-one-tap-iframe'%5D%2C%23google-one-tap-popup-container%2C.google-one-tap__module%2C.google-one-tap-modal-div%2C%23amp_floatingAdDiv%2C%23ez-content-blocker-container)%20%7Bdisplay%3Anone!important%3Bmin-height%3A0!important%3Bheight%3A0!important%3B%7D" rel="stylesheet" type="text/css"></head><body bgcolor="FFFFFF">
+
+<h1 align="CENTER">The York-Toronto-Helsinki Parsed Corpus of Old English Prose
+(YCOE)</h1>
+
+<center>
+Ann Taylor, Anthony Warner, Susan Pintzuk, Frank Beths<br>
+Department of Language and Linguistic Science<br>
+University of York<br>
+Heslington, York <br>
+England YO10 5DD<br>
+© 2003 University of York
+</center>
+<p><br>
+
+</p><h3 align="CENTER"><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeConditions.htm">Conditions of Use</a></h3>
+<p>
+</p><hr>
+
+The York-Toronto-Helsinki Parsed Corpus of Old English Prose (YCOE) is a
+1.5 million word syntactically-annotated corpus. As a sister corpus to the
+Penn-Helsinki Parsed Corpus of Middle English (<a href="http://www.ling.upenn.edu/mideng/ppcme2dir">PPCME2</a>), it uses the
+same form of annotation and is accessed by the same search engine,
+CorpusSearch.  CorpusSearch is not included in this distribution. If you
+already own CorpusSearch you can search the YCOE with it; if not,
+instructions for obtaining it are given below.
+<p>
+We are very grateful to the following presses, organizations, and
+individuals who have generously allowed us to distribute without charge Old
+English texts of which they hold copyright: <a href="http://www.badw.de/">Bayerische Akademie der Wissenschaften</a>, <a href="http://uk.cambridge.org/">Cambridge University Press</a>, <a href="http://users.ox.ac.uk/~eets/eetshome.htm">The Council of The Early
+English Text Society</a>, <a href="http://www.mla.org/">The Modern Language
+Association of America</a>, <a href="http://www.oup.co.uk/">Oxford University
+Press</a>, <a href="http://www.utpress.utoronto.ca/">University of Toronto
+Press</a>, <a href="http://www.doe.utoronto.ca/">Toronto Dictionary of Old
+English Project</a>, Professor Denis Brearley (University of Ottawa),
+Dr. Julia Crick (University of Exeter), Executor of Professor J. Cross
+(University of Liverpool), Professor Thomas Hall (University of Illinois at
+Chicago), Professor Thomas D. Hill (Cornell University), Professor Hugh
+Magennis (Queens University Belfast), Professor Andy Orchard (University of
+Toronto). For permissions granted and details of texts, click <a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeCopy.htm">here</a>.
+</p><p>
+Users are reminded that many of the texts in the corpus are subject to
+copyright restrictions, and that citation or excerption from these texts
+will be subject to the normal requirements concerning copyright holders'
+permission. We hold copyright in the annotations, and freely grant users
+permission to reproduce the annotations in the course of non-commercial
+scholarly activity.
+</p><p>
+We would like to thank the following people and organizations for their
+support during this project: The Toronto Dictionary of Old English Project
+(Antonette di Paolo Healey, editor) for their generosity in allowing us to
+use their electronic versions of the Old English texts as the basis for our
+corpus and permission to distribute the same, as well as helpful
+advice. The English Arts and Humanities Research Board for the grant under
+which the corpus was annotated between 2000 and 2003 (B/RG/AN5907/APN9528);
+Professor Anthony Kroch and Dr. Beatrice Santorini (University of
+Pennsylvania) for helpful discussion of methodology during the project;
+Matti Rissanen and Merja Kytö of the Helsinki Corpus for allowing us
+to make use of their materials, and the Department of Language and
+Linguistics, University of York, which housed the project, for their
+support. We would also like to thank the <a href="http://www.press.umich.edu/">University of Michigan Press</a> for
+their permission to distribute a major proportion of the Toronto Corpus of
+Old English.
+
+</p><hr>
+
+<p>
+<table>
+<tbody><tr>
+<td valign="TOP" width="50%">
+<h3><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeContents.htm">Directory structure and contents</a></h3>
+    <dl>
+    <dd>What is included in the distribution</dd>
+    </dl>
+<h3><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeStart.htm">Getting started</a></h3>
+    <dl>
+    <dd>How to set up and use the YCOE on your computer</dd>
+    </dl>
+<h3><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeFiles.htm">YCOE Filenames</a></h3>
+    <dl>
+    <dd>How YCOE filenames are constructed</dd>
+    </dl>
+<h3><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeMeta.htm">Non-linguistic annotations
+within the text</a></h3>
+    <dl>
+    <dd>How non-linguistic information is encoded</dd>
+    </dl>
+<h3><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/info/YcoeText.htm">Text Information</a></h3>
+    <dl>
+    <dd>Information about the texts included in the corpus</dd>
+    </dl>
+<h3>Part-of-Speech Annotation</h3>
+    <dl>
+    <dd><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeLite.htm#pos_labels">Part-of-Speech 
+           Labels</a></dd>
+    <dd><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoePosToc.htm">Reference Manual</a></dd>
+    </dl>    
+    
+</td>
+
+<td valign="TOP">
+
+<h3>Syntactic Annotation</h3>
+    <dl>
+    <dd><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeLite.htm#syntactic_labels">Syntactic
+Labels</a></dd>
+    <dd><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeLiteToc.htm"> YCOE Lite: 
+        A Beginner's Guide</a></dd>
+    <dd><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeRefToc.htm">Reference Manual</a></dd>
+        </dl>
+<h3><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/annotation/YcoeLabelIndex.htm">Index list of all
+labels</a></h3>
+    <dl>
+    <dd>An alphabetic list of all the labels (part-of-speech and
+    syntactic) used in the YCOE, with links to the documentation </dd>
+    </dl>
+
+
+<h3>Searching the Corpus</h3>
+    <dl>
+    <dd><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/order-corpussearch.htm">CorpusSearch order form</a>
+    </dd><dd><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/corpussearch/CSLiteToc.htm">CorpusSearch Lite: A
+beginner's guide</a>
+    </dd><dd><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/corpussearch/CSRefToc.htm">Reference Manual</a>
+    </dd><dd><a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/doc/corpussearch/CSQuickRef.htm">Quick Reference Page</a>
+    </dd></dl>
+<h3>Questions, comments, publications</h3>
+    <dl>
+    <dd>Please direct any mail about the YCOE to <a href="mailto:at9@york.ac.uk">at9@york.ac.uk</a>. We would appreciate
+    receiving copies of (or at least details about) any publications which
+    make use of the corpus. Questions or comments about CorpusSearch should
+    be directed to <a href="mailto:corpus-search@babel.ling.upenn.edu">corpus-search@babel.ling.upenn.edu</a>.
+    </dd>
+    </dl>
+</td>
+</tr>
+</tbody></table>
+
+</p><hr>
+<center>
+<b>Disclaimer</b>
+</center>
+
+Considerable efforts have been made to find and correct errors in the YCOE,
+but we cannot guarantee that no errors remain.  In legal terms, we are
+supplying the corpus without warranty.  Please click <a href="https://www.ling.upenn.edu/mideng/ppcme2dir/YCOE/YcoeConditions.htm#disclaimer">here</a> for the full legal disclaimer
+concerning the YCOE. Please send reports of any errors found in the texts
+or annotation, with a note of the locus and nature of the error, to <a href="mailto:at9@york.ac.uk">at9@york.ac.uk</a>.  Please remember, however,
+that the annotation system is intended to be a tool for searching, not a
+grammar of Old English syntax.
+<p>
+The CorpusSearch program was developed at the University of Pennsylvania by
+Beth Randall in collaboration with Anthony Kroch and Ann Taylor. Please
+direct all correspondence regarding CorpusSearch to <a href="mailto:corpus-search@babel.ling.upenn.edu">corpus-search@babel.ling.upenn.edu</a>.
+
+
+</p><p></p><hr><p></p>
+
+
+
+
+
+<nordpass-passkeys></nordpass-passkeys></body></html>

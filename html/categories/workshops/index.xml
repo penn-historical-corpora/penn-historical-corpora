@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops on SILPAC</title>
+    <link>http://localhost:1313/categories/workshops/</link>
+    <description>Recent content in Workshops on SILPAC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop: Python (30 June–1 July 2022, University of Mannheim)</title>
+      <link>http://localhost:1313/events/workshop-python/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/workshop-python/</guid>
+      <description>Programme Thursday 30 June 10:00–13:00: Covering some of the basics (looping, variables, argument parsing, writing output) by generating the song 99 Bottles of Beer On the Wall and variations thereof (coffee break at around 11:30) 13:00–14:30: Lunch break 14:30–18:00: Our first real hands-on case: Converting a CorpusSearch .out file to a table ready to be imported to R or Excel (coffee breaks at around 15:30 and 16:30) Friday 1 July 10:00–13:00: Creating a spreadsheet based on manually annotated data, working with Tara’s 14th century Dutch data (coffee break at around 11:30) 13:00–14:30: Lunch break 14:30–18:00: Determining the distance between primes and their targets, working with Lena’s corpus data (coffee breaks at around 15:30 and 16:30) Remote access If you plan on joining remotely, please have a dual monitor setup ready so you can watch the stream and type in the Python code yourself simultaneously.</description>
+    </item>
+  </channel>
+</rss>

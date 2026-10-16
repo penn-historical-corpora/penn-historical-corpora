@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /ananke/
+Disallow: /categories/
+Disallow: /images/
+Disallow: /tags/
+

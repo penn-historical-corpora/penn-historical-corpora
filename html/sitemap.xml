@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://silpac.uni-mannheim.de/citing-corpora/</loc>
+  </url><url>
+    <loc>https://silpac.uni-mannheim.de/corpus-search/</loc>
+  </url><url>
+    <loc>https://silpac.uni-mannheim.de/other-corpora/</loc>
+  </url><url>
+    <loc>https://silpac.uni-mannheim.de/about/</loc>
+  </url><url>
+    <loc>https://silpac.uni-mannheim.de/categories/</loc>
+  </url><url>
+    <loc>https://silpac.uni-mannheim.de/corpus-annotation/</loc>
+  </url><url>
+    <loc>https://silpac.uni-mannheim.de/</loc>
+  </url><url>
+    <loc>https://silpac.uni-mannheim.de/ppceme/</loc>
+  </url><url>
+    <loc>https://silpac.uni-mannheim.de/ppcmbe/</loc>
+  </url><url>
+    <loc>https://silpac.uni-mannheim.de/ppcme2/</loc>
+  </url><url>
+    <loc>https://silpac.uni-mannheim.de/tags/</loc>
+  </url>
+</urlset>
